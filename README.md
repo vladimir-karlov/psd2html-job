@@ -4,7 +4,9 @@ You are applying for a PSD2HTML job at [Oceanhouse21](http://www.oceanhouse21.co
 
 ## Step 1
 
-Fork this project (build with [generator-gulp-webapp](https://github.com/yeoman/generator-gulp-webapp): https://github.com/oceanhouse21/psd2html-job
+Fork this project: https://github.com/oceanhouse21/psd2html-job
+
+*Note: the project is built with [generator-gulp-webapp](https://github.com/yeoman/generator-gulp-webapp)*
 
 ## Step 2
 
@@ -16,7 +18,7 @@ git clone https://github.com/yourname/psd2html-job
 
 ## Step 3
 
-Download and install [Vagrant](https://www.vagrantup.com/) from here: [www.vagrantup.com/downloads](https://www.vagrantup.com/downloads) and also [VirtualBox](https://www.virtualbox.org/wiki/Downloads).
+If not yet done, download and install [Vagrant](https://www.vagrantup.com/downloads) and [VirtualBox](https://www.virtualbox.org/wiki/Downloads).
 
 ## Step 4
 
@@ -33,7 +35,7 @@ gulp serve
 
 ## Step 5
 
-Implement the [Bootstrap sticky footer template](http://getbootstrap.com/examples/sticky-footer/) into the app/index.html file. Don't forget to add the css snippets to app/styles/main.scss. Please leave Bootstrap installed via Bower.
+Implement [Bootstrap's sticky footer template](http://getbootstrap.com/examples/sticky-footer/) into [app/index.html](https://github.com/oceanhouse21/psd2html-job/blob/master/app/index.html). Don't forget to add the [css snippets](http://getbootstrap.com/examples/sticky-footer/sticky-footer.css) to [app/styles/main.scss](https://github.com/oceanhouse21/psd2html-job/blob/master/app/styles/main.scss). Please leave Bootstrap installed via Bower.
 
 To check your result visit [http://localhost:9000](http://localhost:9000).
 
