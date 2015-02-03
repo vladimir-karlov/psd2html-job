@@ -4,13 +4,13 @@ You are applying for a PSD2HTML job at [Oceanhouse21](http://www.oceanhouse21.co
 
 ## Step 1
 
-Fork this project: https://github.com/oceanhouse21/psd2html-job
+Fork this project: https://github.com/oceanhouse21/psd2html-job/fork
 
 *Note: the project is built with [generator-gulp-webapp](https://github.com/yeoman/generator-gulp-webapp)*
 
 ## Step 2
 
-Clone the forked project to your local machine:
+Clone the forked project to your local machine from terminal:
 
 ```
 git clone https://github.com/yourname/psd2html-job
@@ -22,7 +22,7 @@ If not yet done, download and install [Vagrant](https://www.vagrantup.com/downlo
 
 ## Step 4
 
-Log in to the Vagrant machine and start the web server:
+Log in to the Vagrant machine and start the web server from terminal:
 
 ```
 cd psd2html-job
@@ -37,20 +37,20 @@ gulp serve
 
 Implement [Bootstrap's sticky footer template](http://getbootstrap.com/examples/sticky-footer/) into [app/index.html](https://github.com/oceanhouse21/psd2html-job/blob/master/app/index.html). Don't forget to add the [css snippets](http://getbootstrap.com/examples/sticky-footer/sticky-footer.css) to [app/styles/main.scss](https://github.com/oceanhouse21/psd2html-job/blob/master/app/styles/main.scss). Please leave Bootstrap installed via Bower.
 
-To check your result visit [http://localhost:9000](http://localhost:9000).
+To check your result visit http://localhost:9000.
 
 ## Step 6
 
-Finally build the webapp in Vagrant
+Finally build the webapp from terminal:
 
 ```ruby
-## Stop the server with Ctrl + c and run gulp
+## Stop the server with Ctrl + C and run gulp
 gulp
 ```
 
 ## Step 7
 
-Commit your work and send a pull request to [https://github.com/yourname/psd2html-job/pulls](https://github.com/yourname/psd2html-job/pulls)
+Commit your work and send a pull request to https://github.com/yourname/psd2html-job/pulls
 
 ## Applied
 
