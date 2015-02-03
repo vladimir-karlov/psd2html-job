@@ -50,7 +50,7 @@ gulp
 
 ## Step 7
 
-Commit your work and send a pull request to https://github.com/yourname/psd2html-job/pulls
+Commit your work and send a pull request to https://github.com/oceanhouse21/psd2html-job/pulls
 
 ## Applied
 
