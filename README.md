@@ -30,7 +30,7 @@ vagrant box add ubuntu/trusty64
 vagrant up
 vagrant ssh
 # You need follow that install instructionst to install node (duration: ca. 5 min)
-source <(curl -sL https://gist.githubusercontent.com/georgschlenkhoff/33d88a1c3ed710403575/raw/67b3e832f138ebf1f2d2d48cd562b579e6c62cb0/setup.sh)
+source <(curl -sL https://gist.githubusercontent.com/georgschlenkhoff/33d88a1c3ed710403575/raw/666d531f88651478fadd672531edf641b047cc14/setup.sh)
 cd /vagrant
 gulp serve
 ```
